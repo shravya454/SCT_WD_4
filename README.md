@@ -18,9 +18,9 @@ A modern dark-mode to-do web application built with HTML, CSS, and JavaScript fe
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ---
 
